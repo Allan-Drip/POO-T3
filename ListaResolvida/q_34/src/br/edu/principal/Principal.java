@@ -30,11 +30,20 @@ public class Principal {
 		                }
 		                System.out.println("A quantidade de divisores que " + m + " possui é: " + divisores);
 		            } else {
+		            	if (m == 1) {
+		            		for (i = 1; i <= m; i++) {
+		            			 soma = soma + i;
+					                System.out.println("A soma de 1 até " + (m) + " é: " + soma);
+
+		            		}
+
+		            	}
 		      
 		                for (i = 1; i <= (m-1); i++) {
 		                    soma = soma + i;
+			                System.out.println("A soma de 1 até " + (m-1) + " (sem incluir "+ m+ ") é: " + soma);
+
 		                }
-		                System.out.println("A soma de 1 até " + (m-1) + " (sem incluir "+ m+ ") é: " + soma);
 		            }
 
 		            System.out.println("  ");
