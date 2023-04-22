@@ -6,7 +6,10 @@ Questão| Enunciado 
 **10** |Faça um programa que mostre os oito primeiros termos da sequência de Fibonacci.
 **11** |Faça um programa que leia o número de termos, determine e mostre os valores de acordo com a série a seguir: 2, 7, 3, 4, 21, 12, 8, 33, 49, 16, 189, 192, 32, 567. 76, 64
 **20** |A conversão de graus Fahrenheit para Celsius é obtida por C = 59 ^ (f - 32.) Faça um programa que calcule e escreva uma tabela de graus Celsius e graus Fahrenheit, cujos graus variem de 50 a 65 de 1 em 1.
-**22** | Foi feita uma pesquisa para determinar o indice de mortalidade infantil em um certo periodo. Faça um programa que leia o número de crianças nascidas no período, o sexo (M ou F) e o tempo de vida para cada criança nascida. Calcule e mostre: a percentagem de crianças do sexo feminino mortas no periodo, a percentagem de crianças do sexo masculino mortas no periodo, a percentagem de crianças que viveram 24 meses ou menos no periodo.
+**22** | Foi feita uma pesquisa para determinar o indice de mortalidade infantil em um certo periodo. Faça um programa que leia o número de crianças nascidas no período, o sexo (M ou F) e o tempo de vida para cada criança nascida. Calcule e mostre: 
+**a)** | percentagem de crianças do sexo feminino mortas no periodo
+**b)** |a percentagem de crianças do sexo masculino mortas no periodo
+**c)** |a percentagem de crianças que viveram 24 meses ou menos no periodo.
 **25** |Faça um programa que leia uma quantidade indeterminada de números positivos e conte quantos deles estão nos seguintes intervalos [0-25, [26-50] [51-75] [76-100]. A entrada de dados deverá terminar quando for lido um número negativo.
 **27** |Faça um programa para calcular a área de um triângulo. Esse programa não pode permitir a entrada de dados inválidos, ou seja, medidas menores ou iguais a 0.
 **31** |Faça um programa que leia um número não determinado de pares de valores (m,n), todos inteiros e positivos, um par de cada vez e que calcule e mostre a soma de todos os números inteiros entre, m e n (inclusive). A digitação de pares termina quando m for maior ou igual a n.
