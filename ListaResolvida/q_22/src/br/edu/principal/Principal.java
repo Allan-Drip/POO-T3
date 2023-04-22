@@ -34,8 +34,8 @@ public class Principal {
             System.out.println(" ");
 
             if (sexo.equals("M")) { //"Para comparar strings pelo seu conteúdo em Java, é necessário usar o método equals(), que compara o conteúdo das strings e retorna true se forem iguais."
-    			total_m = total_m + 1;
-                total_m = total_m + 1;
+    		total_m = total_m + 1;
+                
             }
             if (sexo.equals("F")) {
                 total_f = total_f + 1;
