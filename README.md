@@ -26,7 +26,7 @@
   
   
  -------------------------------------------------------------------------------------------------------------------------------------------------------- 
-Este repositório contém problemas lógicos, resolvidos na linguagem <a href="https://tecnoblog.net/responde/o-que-e-java-guia-para-iniciantes/" target="_blank" rel="external">JAVA</a>. Ele foi feito para abrigar a entrega do terceiro trabalho da primeira etapa da disciplina de Programação Orientada a Objetos (POO), no Instituto Federal do Ceará (IFCE), ministrada pelo professor <a href="https://github.com/rogermsarmento" target="_blank" rel="external">Roger Sarmento</a>.  
+Este repositório contém problemas lógicos, resolvidos na linguagem <a href="https://tecnoblog.net/responde/o-que-e-java-guia-para-iniciantes/" target="_blank" rel="external">JAVA</a>. Ele foi feito para abrigar a entrega do terceiro trabalho da primeira etapa da disciplina de Programação Orientada a Objetos (POO), no Instituto Federal do Ceará (IFCE), ministrada pelo professor <a href="https://github.com/rogermsarmento" target="_blank" rel="external">Roger Sarmento</a>. A tarefa possui apenas uma parte: a Listas Resolvidas, em que os algoritmos para a resolução do problema foram oferecidos para os estudantes. Os exercícios, com um grau de dificuldade mais elevado que os outros trabalhos da N1, somam, ao total, uma quantidade de 10 resoluções programadas em Java.</a>.  
   
     
   
